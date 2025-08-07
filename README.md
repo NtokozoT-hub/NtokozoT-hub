@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning Data Analytics with Hyperion Dev 
 <!--
 **NtokozoT-hub/NtokozoT-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
